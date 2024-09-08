@@ -1,0 +1,17 @@
+ 
+  h is the time step used by both methods
+  #f is the number of function evals required for the given method
+  error is the absolute error at t=1 for the given method
+ 
+                    Euler        rk4  
+   h      #f     error        #f    error
+2.0e-01	   5	8.3e+01		  20	1.1e+03
+
+5.0e-02	  20	2.5e-03		  80	8.3e-05
+
+1.3e-02	  80	6.3e-04		 320	2.3e-07
+
+3.1e-03	 320	1.6e-04		1280	8.2e-10
+
+7.8e-04	1280	3.9e-05		5120	3.1e-12
+

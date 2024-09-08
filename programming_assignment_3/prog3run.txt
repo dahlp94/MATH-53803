@@ -1,0 +1,24 @@
+degree 3 error at x=3:
+
+ans =
+
+  -9.6544e-03
+
+degree 5 error at x=3:
+
+ans =
+
+  -3.0248e-04
+
+degree 5 error at x=3 and x=4:
+
+ans =
+
+  -3.0248e-04  -1.2242e-03
+
+degree 8 error at x=3, x=4, and x=5:
+
+ans =
+
+  -2.6231e-05  -1.8126e-05   1.5771e-04
+
